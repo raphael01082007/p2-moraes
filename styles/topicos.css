@@ -21,7 +21,7 @@
 }
 
 .tópicos__link {
-    color: var(--azul-degrade);
+    color: var(--branco);
     padding: 1em;
     background-color: var(--azul-degrade);
     text-decoration: none;
